@@ -11,4 +11,3 @@
 # Note
   * I don't know how to use dynamic object for this map. since these objects will replace thr original one in same position
   * So if you're using dynamic object and removed the building per-player, it will changed into a void instead of snow biome
-  * If you have any problem you can ask me on my alt-discord (Samsudin#1956)
